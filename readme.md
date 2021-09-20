@@ -1,11 +1,3 @@
-####################################
-	     READ ME
-####################################
-
-Work 1
-
-Group 6
-
 Ana Rita Gonçalves [Nº 86377]
 Inês Lacerda [Nº 86436]
 Miguel Pessoa [Nº 97311]
