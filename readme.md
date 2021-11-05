@@ -1,6 +1,3 @@
-Ana Rita Gonçalves [Nº 86377]
-Inês Lacerda [Nº 86436]
-Miguel Pessoa [Nº 97311]
 
 ------------------------------------
 Execution:
